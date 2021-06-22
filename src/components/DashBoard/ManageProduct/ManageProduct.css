@@ -1,0 +1,10 @@
+.update .edit{
+    color:green;
+    font-size: 20px;
+    margin-right:5px;
+}
+
+.update .delete{
+    color:red;
+    font-size: 20px;
+}

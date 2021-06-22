@@ -1,0 +1,14 @@
+.brand-logo {
+    font-weight: bold;
+    color: gray;
+}
+
+.nav-link{
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.nav-link .item:hover{
+    color:gray;
+}

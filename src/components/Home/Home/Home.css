@@ -1,0 +1,20 @@
+.search-option{
+    width:50%;
+    margin:auto;
+    margin-top:50px;
+    text-align:center;
+}
+
+.items {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin-bottom: 5px;
+    padding: 20px 0;
+}
+
+.items p{
+    display: inline;
+    margin-right: 30px;
+    font-size: 30px;
+    font-weight:bold;
+}
